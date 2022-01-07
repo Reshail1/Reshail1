@@ -11,8 +11,9 @@
 
 
 ### Hire Me!!
+
 [<img align="left" alt="fiverr.com/reshailawan" height="50" width="50" src="./fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
+[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="./upwork.svg" />][upwork]
 
 <br />
 
