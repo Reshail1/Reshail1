@@ -10,15 +10,14 @@
 <br />
 
 ### Hire Me!!
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/upwork.svg" />][upwork]
+[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][fiverr]
-[<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][twitter]
 [<img align="left" alt="reshailawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
