@@ -13,10 +13,11 @@
 ### Hire Me!!
 
 [<img align="left" alt="fiverr.com/reshailawan" height="50" width="50" src="./fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="50px" height="50" src="./upwork.svg" />][upwork]
+[<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.svg" />][upwork]
 
 <br />
-
+<br />
+<br />
 ### Connect with me:
 
 [<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
