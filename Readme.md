@@ -9,13 +9,9 @@
 
 <br />
 
-![Alt text](./fiverr.svg)
-<img src="./fiverr.svg">
-
-
 
 ### Hire Me!!
-[<img align="left" alt="fiverr.com/reshailawan" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="fiverr.com/reshailawan" height="32" width="32" src="./fiverr.svg" />][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
 
 <br />
