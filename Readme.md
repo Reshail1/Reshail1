@@ -16,14 +16,11 @@
 [<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.svg" />][upwork]
 
 <br />
-<br />
-<br />
 
 ### Connect with me:
 
 [<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="reshailawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
