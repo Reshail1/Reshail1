@@ -3,7 +3,7 @@
 
 - 🔭 I just completed my 4 years as developer
 - 🌱 I learn something everyday 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to work on freelance projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch Cricket
 
