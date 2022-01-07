@@ -2,7 +2,7 @@
 ## I'm a Flutter, Angular and Nodejs Developer !!
 
 - 🔭 I just completed my 4 years as developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I learn something everyday 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch Cricket
@@ -10,8 +10,8 @@
 <br />
 
 ### Hire Me!!
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg?sanitize=true" />][fiverr]
+[<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
 
 <br />
 
