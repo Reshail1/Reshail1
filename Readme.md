@@ -9,7 +9,7 @@
 
 <br />
 
-![svg-file.svg](/./fiverr.svg)
+![svg-file.svg](./fiverr.svg)
 
 
 
