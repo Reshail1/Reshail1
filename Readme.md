@@ -9,6 +9,10 @@
 
 <br />
 
+<a href='https://www.fiverr.com/reshailawan'> 
+   <img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg?sanitize=true" /> 
+</a>
+
 ### Hire Me!!
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg?sanitize=true" />][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
