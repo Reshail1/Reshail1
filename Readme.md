@@ -8,9 +8,10 @@
 - ⚡ Fun fact: I love to watch Cricket
 
 <br />
-<img align="left" alt="reshailawan" width="22px" src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/>
+
 
 [![fiverr](https://img.icons8.com/ios-filled/50/000000/fiverr.png)][fiverr]
+
 ### Hire Me!!
 [<img align="left" alt="reshailawan" width="22px" src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/>][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
