@@ -1,4 +1,4 @@
-### Hi there, I'm Reshail - aka [reshailawan][https://www.reshailawan.com] 👋 
+### Hi there, I'm Reshail - aka [reshailawan][fiverr] 👋 
 ## I'm a Flutter, Angular and Nodejs Developer !!
 
 - 🔭 I just completed my 4 years as developer
@@ -9,7 +9,7 @@
 
 <br />
 
-## Hire Me!!
+### Hire Me!!
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/fiverr.svg" />][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/upwork.svg" />][upwork]
 
