@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to watch Cricket
 
 <br />
+<img align="left" alt="reshailawan" width="22px" src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/>
 
 ### Hire Me!!
 [<img align="left" alt="reshailawan" width="22px" src="https://img.icons8.com/ios-filled/50/000000/fiverr.png"/>][fiverr]
