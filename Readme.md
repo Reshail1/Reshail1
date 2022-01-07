@@ -10,14 +10,14 @@
 <br />
 
 ### Hire Me!!
-[<img align="left" alt="fiverr.com/reshailawan" width="22px" style="fill: #ffffff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg?sanitize=true" />][fiverr]
+[<img align="left" alt="fiverr.com/reshailawan" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/fiverr.svg" />][fiverr]
 [<img align="left" alt="fiverr.com/reshailawan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg?sanitize=true" />][upwork]
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][twitter]
+[<img align="left" alt="reshailawan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="reshailawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
