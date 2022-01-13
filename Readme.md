@@ -12,7 +12,7 @@
 ### Hire Me!!
 
 [<img align="left" alt="fiverr.com/reshailawan" height="50" width="50" src="./fiverr.svg" />][fiverr]
-[<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.svg" />][upwork]
+<!-- [<img align="left" alt="fiverr.com/reshailawan" width="50" height="50" src="./upwork.svg" />][upwork] -->
 
 <br />
 <br />
