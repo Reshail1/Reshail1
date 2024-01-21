@@ -1,11 +1,11 @@
 ### Hi there, I'm Reshail - aka [reshailawan][fiverr] 👋 
 ## I'm a Flutter, Angular and Nodejs Developer !!
 
-- 🔭 I just completed my 5 years as developer
-- 🌱 I learn something everyday 
-- 👯 I’m looking to work on freelance projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch Cricket
+- 🔭 Celebrating 6 years of development excellence.
+- 🌱 Committed to lifelong learning in tech.
+- 👯 Open for exciting projects.
+- 🥅 2024 Goals: Expand my contributions to Open Source.
+- ⚡ Fun fact: Avid Cricket enthusiast.
 
 <br />
 
@@ -46,13 +46,22 @@
 <br />
 <br />
 
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [React vs Angular](https://medium.com/@reshailawan/react-vs-angular-in-2023-a-comprehensive-comparison-4821703cd073?source=your_stories_page-------------------------------------)
+- [Server Side Rendering with Angular SSR](https://medium.com/@reshailawan/server-side-rendering-ssr-with-angular-universal-cd473c70a9fb?source=your_stories_page-------------------------------------)
+- [How to install Angular material to Angular Project](https://medium.com/@reshailawan/how-to-install-angular-material-in-your-angular-project-edc26df22df?source=your_stories_page-------------------------------------)
+<!-- BLOG-POST-LIST:END -->
+<br />
+
+### Links
+- [Website](https://reshailawan.com)
+- [Twitter](https://twitter.com/reshailawan)
+- [Linkedin](https://www.linkedin.com/in/reshailawan-web-development-angular-expert/)
+- [Fiverr](https://www.fiverr.com/reshailawan)
+- [Upwork](https://www.upwork.com/freelancers/~019dbdbef0c4d33e12)
+
 ### Github Stats
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshail1&show_icons=true)
+![Reshail GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshail1&show_icons=true)
 
 
-[website]: https://reshailawan.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/reshailawan
-[linkedin]: https://linkedin.com/in/reshail-muzammil-5
-[fiverr]: https://www.fiverr.com/reshailawan
-[upwork]: https://www.upwork.com/freelancers/~019dbdbef0c4d33e12
