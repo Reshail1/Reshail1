@@ -54,14 +54,15 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
-### Links
-- [Website]: https://reshailawan.com
-- [Twitter]: https://twitter.com/reshailawan
-- [Linkedin]: https://www.linkedin.com/in/reshailawan-web-development-angular-expert/
-- [Fiverr]: https://www.fiverr.com/reshailawan
-- [Upwork]: https://www.upwork.com/freelancers/~019dbdbef0c4d33e12
+
 
 ### Github Stats
 ![Reshail GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshail1&show_icons=true)
 
+
+[Website]: https://reshailawan.com
+[Twitter]: https://twitter.com/reshailawan
+[Linkedin]: https://www.linkedin.com/in/reshailawan-web-development-angular-expert/
+[Fiverr]: https://www.fiverr.com/reshailawan
+[Upwork]: https://www.upwork.com/freelancers/~019dbdbef0c4d33e12
 
